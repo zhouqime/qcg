@@ -1,2 +1,2 @@
 # qcg
-Cartographic and Geographic System by Qt
+Cartographic and Geographic Information System by Qt
